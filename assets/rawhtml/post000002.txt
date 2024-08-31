@@ -1,0 +1,10 @@
+    <div class="blog-post">
+        <h2 class="h">Development News - 2</h2>
+        <br>
+        <p class="h">Coin Clicker 2 Is Currently Being Developed And We Have Decided To Announce The New Update Is Coin Clicker 2 - The Mines Here Are The Photos From The Current Development Level.</p>
+        <br>
+        <a href="https://red-option-studios.github.io/blog/assets/images/000001.png">Image 1</a>
+        <a href="https://red-option-studios.github.io/blog/assets/images/000002.png">Image 2</a>
+        <p>Post By: Yexaliop - Owner</p>
+        <pre>Post #000002</pre>
+    </div>

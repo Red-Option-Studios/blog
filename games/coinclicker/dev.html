@@ -8,6 +8,15 @@
     <link rel="stylesheet" href="https://red-option-studios.github.io/blog/assets/css/sidebar_dev.css">
     <link rel="stylesheet" href="https://red-option-studios.github.io/blog/assets/css/posts.css">
     <title>RedOptionStudios DevBlog | Coin Clicker</title>
+    <script>
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const rawpostnum = urlParams.get('rawpost')
+
+        if (rawpostnum == "000002") {
+            window.location.replace('https://red-option-studios.github.io/assets/rawhtml/post000002.txt')
+        }
+    </script>
 </head>
 <body>
     <div class="sidebar" id="sidebar">
